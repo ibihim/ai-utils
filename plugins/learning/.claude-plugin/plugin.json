@@ -1,0 +1,8 @@
+{
+    "name": "learning-plugin",
+    "description": "Plugin used to understand  things better.",
+    "version": "1.0.0",
+    "author": {
+        "name": "ibihim"
+    }
+}

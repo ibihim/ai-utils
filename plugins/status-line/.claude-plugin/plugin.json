@@ -1,0 +1,8 @@
+{
+    "name": "status-line-plugin",
+    "description": "Plugin used to create a status line",
+    "version": "1.0.0",
+    "author": {
+        "name": "ibihim"
+    }
+}
