@@ -1,0 +1,8 @@
+{
+    "name": "output-plugin",
+    "description": "Commands for formatting and saving conversations in different output formats.",
+    "version": "1.0.0",
+    "author": {
+        "name": "ibihim"
+    }
+}
