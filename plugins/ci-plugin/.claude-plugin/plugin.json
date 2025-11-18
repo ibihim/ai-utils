@@ -1,0 +1,6 @@
+{
+  "name": "ci-plugin",
+  "description": "Prow CI test failure analysis and triage tools for OpenShift and Kubernetes projects",
+  "version": "1.0.0",
+  "author": "ibihim"
+}
