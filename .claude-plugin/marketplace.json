@@ -13,6 +13,16 @@
             "name": "status-line-plugin",
             "source": "./plugins/status-line",
             "description": "Plugin used to create a status line"
+        },
+        {
+            "name": "output-plugin",
+            "source": "./plugins/output-plugin",
+            "description": "Commands for formatting and saving conversations in different output formats"
+        },
+        {
+            "name": "ci-plugin",
+            "source": "./plugins/ci-plugin",
+            "description": "Prow CI test failure analysis and triage tools for OpenShift and Kubernetes projects"
         }
     ]
 }
