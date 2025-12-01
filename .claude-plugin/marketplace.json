@@ -23,6 +23,11 @@
             "name": "ci-plugin",
             "source": "./plugins/ci-plugin",
             "description": "Prow CI test failure analysis and triage tools for OpenShift and Kubernetes projects"
+        },
+        {
+            "name": "pr-plugin",
+            "source": "./plugins/pr-plugin",
+            "description": "Pull request review and analysis tools"
         }
     ]
 }
